@@ -1,1 +1,1 @@
-"Hi, my fist commit"
+"Hi, my first commit"
